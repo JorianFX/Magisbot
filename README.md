@@ -8,4 +8,4 @@ Special thanks to Magister.JS
 https://github.com/simplyGits/MagisterJS
 
 
-2019 DatInternet
+©2019 DatInternet
